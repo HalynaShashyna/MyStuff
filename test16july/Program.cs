@@ -8,6 +8,12 @@ namespace test16july
         {
             string s;
             int a = 2;
+            sayHello();
+        }
+        void sayHello()
+        {
+            bool b;
+            b = true;
         }
     }
 }
