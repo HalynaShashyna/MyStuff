@@ -14,6 +14,7 @@ namespace test16july
         {
             bool b;
             b = true;
+            if (b) return;
         }
     }
 }
