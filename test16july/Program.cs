@@ -10,7 +10,7 @@ namespace test16july
             int a = 2;
             sayHello();
         }
-        void sayHello()
+        static void sayHello()
         {
             bool b;
             b = true;
