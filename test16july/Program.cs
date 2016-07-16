@@ -7,6 +7,7 @@ namespace test16july
         static void Main(string[] args)
         {
             string s;
+            int a = 2;
         }
     }
 }
